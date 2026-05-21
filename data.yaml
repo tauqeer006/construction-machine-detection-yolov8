@@ -1,0 +1,13 @@
+path: dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names:
+  0: Drill
+  1: Hammer
+  2: Pliers
+  3: Screwdriver
+  4: Wrench
